@@ -1,0 +1,9 @@
+/* External CSS */
+#dci{
+    color: green;
+    text-decoration: none;
+}
+#skill-list{
+    /* remove the list bullets*/
+    list-style-type: none;
+}
